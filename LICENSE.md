@@ -1,1 +1,1 @@
-This hereby work is authored and property of jean luc kajuga a student of moringaschool and is purely for learning and testing purposes and thereby not subject to any copyright claim by I, its author.
+This hereby work is authored and property of jean luc kajuga a student at moringaschool and is purely for learning and testing purposes and thereby not subject to any copyright claim by I, its author.

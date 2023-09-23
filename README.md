@@ -1,5 +1,6 @@
 # phase-1-toy-problems-challenges
 
+this repository contains submissions for week 1 toy problems by jean luc kajuga(jean.kajuga@student.moringaschool.com)
 ## Week 1 Toy problems
 
 ### Prerequisites

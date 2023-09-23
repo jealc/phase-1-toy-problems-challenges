@@ -41,3 +41,7 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 Links to an external site.-  Links to an external site.Links to an external site.
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+
+## Approach to challenge solutions
+
+Solutions to each challenge i.e Challenge 1; Challenge 2; Challenge 3 respectively are contained within the /Solutions folder of this repository in their respective order written in JavaScript.

@@ -1,0 +1,32 @@
+function calculateDemeritPoints() {
+  // Prompt the user for the car's speed
+  var speed = parseFloat(prompt("Enter the car's speed (in km/h):"));
+
+  // Define the speed limit and the demerit points per 5 km/h above the limit
+  var speedLimit = 70;
+  var demeritPointsPer5KmH = 1;
+
+  // Check if the input is a valid number
+  if (isNaN(speed)) {
+    alert("Invalid input. Please enter a valid speed.");
+    return;
+  }
+
+  // Calculate the demerit points
+  var demeritPoints = Math.floor((speed - speedLimit) / 5);
+
+  // Check if there are demerit points
+  if (demeritPoints > 0) {
+    alert("Points: " + demeritPoints);
+    
+    // Check if the driver's license should be suspended
+    if (demeritPoints > 12) {
+      alert("License suspended");
+    }
+  } else {
+    alert("Ok");
+  }
+}
+
+// Call the function to calculate demerit points
+calculateDemeritPoints();
